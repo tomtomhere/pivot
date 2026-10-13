@@ -1,0 +1,9 @@
+{
+  "name": "pivot",
+  "version": "6.0.0",
+  "description": "Migration tool. Converts any codebase to whatever's trending.",
+  "bin": { "pivot": "pivot.js" },
+  "keywords": ["pivot", "blockchain", "metaverse", "ai", "agentic", "thesis"],
+  "author": "Francis Copernicus",
+  "license": "MIT"
+}
